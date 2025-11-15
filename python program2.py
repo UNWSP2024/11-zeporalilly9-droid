@@ -24,4 +24,5 @@ quit_button = tk.Button(root, text="Quit", command=root.quit)
 quit_button.pack(pady=10)
 
 # Run the application
+
 root.mainloop()

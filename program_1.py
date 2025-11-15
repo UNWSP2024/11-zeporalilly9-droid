@@ -14,4 +14,5 @@ label = tk.Label(root, text=saying, font=("Arial", 14), padx=20, pady=20)
 label.pack()
 
 #Run the application
+
 root.mainloop()
